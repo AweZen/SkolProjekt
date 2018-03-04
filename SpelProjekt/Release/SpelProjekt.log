@@ -1,0 +1,42 @@
+﻿  Alien.cpp
+c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Alien.h(9): warning C4584: 'Alien': base-class 'sf::Drawable' is already a base-class of 'Enemie'
+  C:\Users\AweZen\Documents\GitHub\SpelProjekt\SpelProjekt\include\SFML/Graphics/RenderTarget.hpp(45): note: see declaration of 'sf::Drawable'
+  c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Enemie.h(8): note: see declaration of 'Enemie'
+Alien.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+Alien.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bullet.cpp
+c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Bullet.h(10): warning C4584: 'Bullet': base-class 'sf::Drawable' is already a base-class of 'Shot'
+  C:\Users\AweZen\Documents\GitHub\SpelProjekt\SpelProjekt\include\SFML/Graphics/RenderTarget.hpp(45): note: see declaration of 'sf::Drawable'
+  c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Shot.h(8): note: see declaration of 'Shot'
+Bullet.cpp(39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Enemie.cpp
+Enemie.cpp(24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Alien.h(9): warning C4584: 'Alien': base-class 'sf::Drawable' is already a base-class of 'Enemie'
+  C:\Users\AweZen\Documents\GitHub\SpelProjekt\SpelProjekt\include\SFML/Graphics/RenderTarget.hpp(45): note: see declaration of 'sf::Drawable'
+  c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Enemie.h(8): note: see declaration of 'Enemie'
+  Main.cpp
+  Player.cpp
+c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Rocket.h(10): warning C4584: 'Rocket': base-class 'sf::Drawable' is already a base-class of 'Shot'
+  C:\Users\AweZen\Documents\GitHub\SpelProjekt\SpelProjekt\include\SFML/Graphics/RenderTarget.hpp(45): note: see declaration of 'sf::Drawable'
+  c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Shot.h(8): note: see declaration of 'Shot'
+c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Bullet.h(10): warning C4584: 'Bullet': base-class 'sf::Drawable' is already a base-class of 'Shot'
+  C:\Users\AweZen\Documents\GitHub\SpelProjekt\SpelProjekt\include\SFML/Graphics/RenderTarget.hpp(45): note: see declaration of 'sf::Drawable'
+  c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Shot.h(8): note: see declaration of 'Shot'
+Player.cpp(18): warning C4305: 'argument': truncation from 'double' to 'float'
+  Rocket.cpp
+c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Rocket.h(10): warning C4584: 'Rocket': base-class 'sf::Drawable' is already a base-class of 'Shot'
+  C:\Users\AweZen\Documents\GitHub\SpelProjekt\SpelProjekt\include\SFML/Graphics/RenderTarget.hpp(45): note: see declaration of 'sf::Drawable'
+  c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Shot.h(8): note: see declaration of 'Shot'
+  Shot.cpp
+  EnemieHandler.cpp
+c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Alien.h(9): warning C4584: 'Alien': base-class 'sf::Drawable' is already a base-class of 'Enemie'
+  C:\Users\AweZen\Documents\GitHub\SpelProjekt\SpelProjekt\include\SFML/Graphics/RenderTarget.hpp(45): note: see declaration of 'sf::Drawable'
+  c:\users\awezen\documents\github\spelprojekt\spelprojekt\spelprojekt\Enemie.h(8): note: see declaration of 'Enemie'
+  Ship.cpp
+Ship.cpp(20): warning C4305: 'argument': truncation from 'double' to 'float'
+Ship.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 148 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SpelProjekt.vcxproj -> C:\Users\AweZen\Documents\GitHub\SpelProjekt\SpelProjekt\Release\SpelProjekt.exe

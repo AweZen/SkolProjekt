@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\users\awezen\source\repos\spelprojekt\spelprojekt\rocket.h(10): warning C4584: 'Rocket': base-class 'sf::Drawable' is already a base-class of 'Shot'
+  c:\users\awezen\documents\github\spelprojekt\spelprojekt\include\sfml\graphics\rendertarget.hpp(45): note: see declaration of 'sf::Drawable'
+  c:\users\awezen\source\repos\spelprojekt\spelprojekt\shot.h(8): note: see declaration of 'Shot'
+  SpelProjekt.vcxproj -> C:\Users\AweZen\source\repos\SpelProjekt\Debug\SpelProjekt.exe
